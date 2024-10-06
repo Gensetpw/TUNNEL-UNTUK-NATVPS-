@@ -33,6 +33,7 @@ wget https://raw.githubusercontent.com/DindaPutriFN/Autoscript/main/funny.py; ch
  ```
 tmux attach-session -t fn
 ```
+*** 𝚄𝙽𝚃𝚄𝙺 𝙼𝙴𝚁𝚄𝙱𝙰𝙷 𝙺𝙸𝚃𝙰 𝚆𝙰𝙹𝙸𝙱 𝙼𝙴 𝚁𝙴𝚂𝚃𝙰𝚁𝚃 DROPBEAR DENGAN PERINTAH (#/etc/init.d/dropbear restart
 
 <b><details><summary>Service & Port</summary></b> 
  <p align="center">
